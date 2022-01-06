@@ -10,9 +10,9 @@ My name is Samantha Dison and I am currently a student at Boise Codeworks. I am 
 - samnicdis@gmail.com
 
 **ABOUT ME**: 
-🎭 I am a classically trained singer and enjoy musical theatre or anything that involves a stage!
-🎸 I currently play guitar and am learning music production.
-🎨 I love to paint and write; anything to get the creative juices flowing!
-👓 In my freetime I like to read and study philosophy and economics.
-🌲 I also enjoy anything that gets me outside like snowboarding, camping, and hiking.
+-🎭 I am a classically trained singer and enjoy musical theatre or anything that involves a stage!
+-🎸 I currently play guitar and am learning music production.
+-🎨 I love to paint and write; anything to get the creative juices flowing!
+-👓 In my freetime I like to read and study philosophy and economics.
+-🌲 I also enjoy anything that gets me outside like snowboarding, camping, and hiking.
 
