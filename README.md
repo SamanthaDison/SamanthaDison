@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**SamanthaDison/SamanthaDison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samantha Dison and I am currently a student at Boise Codeworks. I am currently learning HTML, CSS, JavaScript, Agile methodology, and more to come! My passions are in design and front-end development. I love engaging in critical thinking and problem-solving, as well as learning new skills so the never-ending learning process that is coding is my own little state of nirvana. I have a strong background in public-speaking and management/leader skills that has given me the ability to easily naviagate social and team environments; I love collaborating with others and finding new and effecient solutions to problems as they arise!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning HTML, CSS/Bootstraps, JavaScript(Vanilla, Vue.js)...
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**HOW TO REACH ME:**
+- https://www.linkedin.com/in/samantha-dison-864680185/
+- samnicdis@gmail.com
+
+**ABOUT ME**: 
+-   🎭 I am a classically trained singer and enjoy musical theatre or anything that involves a stage!
+-   🎸 I currently play guitar and am learning music production.
+-   🎨 I love to paint and write; anything to get the creative juices flowing!
+-   👓 In my freetime I like to read and study philosophy and economics.
+-   🌲 I also enjoy anything that gets me outside like snowboarding, camping, and hiking.
+
