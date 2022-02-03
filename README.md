@@ -6,7 +6,7 @@ My name is Samantha Dison and I am currently a student at Boise Codeworks. I am 
 - 😄 Pronouns: She/Her
 
 **HOW TO REACH ME:**
-- https://www.linkedin.com/in/samantha-dison-864680185/
+- https://www.linkedin.com/in/samanthadison/
 - samnicdis@gmail.com
 
 **ABOUT ME**: 
