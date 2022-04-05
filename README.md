@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Samantha Dison and I am currently a student at Boise Codeworks. I am currently learning HTML, CSS, JavaScript, Agile methodology, and more to come! My passions are in design and front-end development. I love engaging in critical thinking and problem-solving, as well as learning new skills so the never-ending learning process that is coding is my own little state of nirvana. I have a strong background in public-speaking and management/leader skills that has given me the ability to easily naviagate social and team environments; I love collaborating with others and finding new and effecient solutions to problems as they arise!
+My name is Samantha Dison and I am currently a teaching assistant at Boise Codeworks. I am currently learning HTML, CSS, JavaScript, Agile methodology, and more to come! My passions are in design and front-end development. I love engaging in critical thinking and problem-solving, as well as learning new skills so the never-ending learning process that is coding is my own little state of nirvana. I have a strong background in public-speaking and management/leader skills that has given me the ability to easily naviagate social and team environments; I love collaborating with others and finding new and effecient solutions to problems as they arise!
 
-- 🌱 I’m currently learning HTML, CSS/Bootstraps, JavaScript(Vanilla, Vue.js, node.js)
+- 🌱 Languages/Technologies: HTML, CSS/Bootstrap, JavaScript, Vue.js, Node.js, C#, Mongo DB/Mongoose, MySQL, Docker
 - 😄 Pronouns: She/Her
 
 **HOW TO REACH ME:**
