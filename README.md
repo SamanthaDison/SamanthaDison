@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Samantha Dison and I am currently an instructor at Boise Codeworks, a FullStack software development bootcamp. My passions are in design and front-end development. I love engaging in critical thinking and problem-solving, as well as learning new skills so the never-ending learning process that is coding is my own little state of nirvana. I have a strong background in public-speaking and management/leader skills that has given me the ability to easily naviagate social and team environments; I love collaborating with others and finding new and effecient solutions to problems as they arise!
+My name is Samantha Dison and I am currently an instructor at Boise Codeworks, a FullStack Software Development bootcamp. My passions are in design and front-end development. I love engaging in critical thinking and problem-solving, as well as learning new skills so the never-ending learning process that is coding is my own little state of nirvana. I have a strong background in public-speaking and management/leader skills that has given me the ability to easily navigate social and team environments; I love collaborating with others and finding new and effecient solutions to problems as they arise!
 
-- 🌱 Languages/Technologies: HTML, CSS/Bootstrap, JavaScript, Vue.js, Node.js, C#, Mongo DB/Mongoose, MySQL, Docker
+- 🌱 Languages/Technologies: HTML, CSS/Bootstrap, JavaScript, Vue.js, Node.js, React,js, C#, Mongo DB/Mongoose, MySQL, Docker, Azure, AWS
 - 😄 Pronouns: She/Her
 
 **HOW TO REACH ME:**
